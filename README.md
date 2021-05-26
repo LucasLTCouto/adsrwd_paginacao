@@ -1,0 +1,1 @@
+# adsrwd_paginacao
